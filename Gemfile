@@ -7,6 +7,10 @@ gem 'rails', '3.1.2'
 
 gem 'sqlite3'
 
+#pg package for heroku rake
+
+gem 'pg'
+
 
 # Gems used only for assets and not required
 # in production environments by default.
